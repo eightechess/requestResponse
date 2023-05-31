@@ -1,2 +1,4 @@
-package com.example;public class Response {
+package com.example;
+
+public class Response {
 }
